@@ -16,7 +16,8 @@ This repository contains various machine learning models developed to predict su
 This project aims to provide insights into the Titanic dataset using machine learning techniques. It includes data exploration, preprocessing, model training, and evaluation.
 
 ## Dataset
-The dataset is sourced from [Kaggle's Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.
+The dataset is sourced from [Spaceship Titanic
+Predict which passengers are transported to an alternate dimension]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/competitions/spaceship-titanic)) competition.
 
 ## Installation
 To get started, clone the repository and install the required packages:
